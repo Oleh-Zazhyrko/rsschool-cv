@@ -78,3 +78,38 @@ Responsibilities:
 	6. Training of new employees   
 
 ---
+
+
+## Education:
+
+- **WSB University in Warsaw** - [2017-2020] - Tourism and Rrecreation
+- **Dnipro University of Technology** - [2006-2011] - Information Security
+
+---
+
+## Courses:
+
+- **MMCSchool:** [2022] Emmet: Pisz Szybszy i Wydajniejszy Kod HTML i CSS.
+- **MMCSchool:** [2022] Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD.
+- **MMCSchool:** [2022] Kurs Tworzenia Stron WWW cz. II - SASS, JS, Bootstrap.
+- **MMCSchool:** [2022] JavaScript - Jedyny Kurs, Którego Potrzebujesz.
+- **MMCSchool:** [2022] Kurs Tworzenia Stron WWW cz. 3 - Git, GitHub, BEM, Flexbox, Grid.
+- **MMCSchool:** [2022] 10 projektów w czystym JavaScript.
+
+---
+
+## Languages:
+
+- English - Intermediate
+- Russian - Native
+- Ukrainian - Native
+- Poland - Upper Intermediate
+- Czech - Beginner
+- Turkish - Beginner
+
+---
+
+## Hobbies:
+
+- **Music:** playing piano and electric guitar
+- **Sport:** tennis, table tennis, bicycle (roading)
