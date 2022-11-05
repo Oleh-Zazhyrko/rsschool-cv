@@ -36,6 +36,7 @@
 - Git, GitHub
 - VS Code
 - Figma to HTML
+- Node.js
 
 ---
 
